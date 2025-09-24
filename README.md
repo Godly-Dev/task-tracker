@@ -6,7 +6,7 @@ A simple, beautiful, and interactive **Task Tracker** web application built with
 
 ## Live Demo
 
-You can try the Task Tracker live in your browser by opening the `index.html` file or by visiting [Live Demo Link](#) *(replace `#` with your hosted URL if available)*.
+You can try the Task Tracker live in your browser by opening the `task-tracker.html`
 
 ---
 
@@ -34,4 +34,4 @@ You can try the Task Tracker live in your browser by opening the `index.html` fi
 1. Clone the repository or download the HTML file:
 
 ```bash
-git clone https://github.com/yourusername/task-tracker.git
+git clone https://github.com/Godly-Dev/task-tracker.git
